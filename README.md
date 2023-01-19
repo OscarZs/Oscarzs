@@ -6,6 +6,8 @@
 + 📫 Reach me via email: zhongs21@mails.tsinghua.edu.cn
 + ⚡ Know me more through:[My Website](https://www.oscarzs.live/)
 
+![](https://github-readme-stats.vercel.app/api?username=oscarzs&theme=dark)
+
 
 <!--
 **OscarZs/Oscarzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
