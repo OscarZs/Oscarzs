@@ -1,8 +1,10 @@
 ### Hi ，Oscar here 👋
 + 😘 My initials are zs so you can call me Oscar or zs
++ 👨 Pronouns: he/him 
 + 🌱 I’m currently learning C, Python, HTML, ...
 + 😆 I’m interested in many things，but not good at them
 + 📫 Reach me via email: zhongs21@mails.tsinghua.edu.cn
++ ⚡ Know me more through:[My Website](https://www.oscarzs.live/)
 
 
 <!--
