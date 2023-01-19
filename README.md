@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi ，Oscar here 👋
++ 😘 My initials are zs so you can call me Oscar or zs
++ 🌱 I’m currently learning C, Python, HTML, ...
++ 😆 I’m interested in many things，but not good at them
++ 📫 Reach me via email: zhongs21@mails.tsinghua.edu.cn
+
 
 <!--
 **OscarZs/Oscarzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
